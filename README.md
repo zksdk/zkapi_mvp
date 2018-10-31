@@ -1,10 +1,10 @@
-<center>
+<p style="text-align: center;">
 <a href="http://crypr.co">
 <img src="https://storage.googleapis.com/wzukusers/user-34522423/images/5bd87960b9c49i6wWxeD%2FCapture.PNG" width="200" height="78"><br>
 http://crypr.co</a><br>
 
 <h3>Zero-Knowledge Proofs --- Complex? Now, super simple!</h3>
-</center>
+</p>
 <br>
 <br>
 
