@@ -39,7 +39,7 @@ We are compliant with the standardisation effords of zero-knowledge proofs. See 
 ## Contact us
 Robin Ankele <<a href="mailto:robin.ankele@gmail.com">robin.ankele@gmail.com</a>>  
 Youssef Ben Mahmoud <<a href="mailto:youssef_ben_mahmoud@yahoo.fr">youssef_ben_mahmoud@yahoo.fr</a>>  
-<a href="http://crypr.co">http://crypr.co</a>
+<a href="http://crypr.co">http://crypr.co</a>  Zero-Knowledge Proofs --- Complex? Now, super simple!
 
 ## License
 This is open-source software. 
