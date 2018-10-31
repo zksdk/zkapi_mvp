@@ -1,5 +1,3 @@
-# zkapi_mvp
-
 ## Zero-Knowledge API MVP
 This is a mvp of our zero-knowledge api.
 
@@ -17,11 +15,11 @@ More information please visit <a href="https://en.wikipedia.org/wiki/Zero-knowle
 
 The MVP is written in python. To run the MVP you need to open two command lines:
 
-'''python
+'''
 python verifier.py
 '''
 
-'''python
+'''
 python prover.py
 '''
 
