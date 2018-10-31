@@ -24,7 +24,7 @@ python prover.py
 ```
 
 # Feedback
-We are currently seeking active feedback to build our API/SDK. If you want us to add any specific features / support specific programming languages or have a business application you can either drop us an <a href="mailto:robin.ankele@gmail.com,youssef_ben_mahmoud@yahoo.fr">email</a> or anonymously provide any feedback here:
+We are currently seeking active feedback to build our API/SDK. If you want us to add any specific features / support specific programming languages or have a business application you can either drop us an <a href="mailto:robin.ankele@gmail.com,youssef_ben_mahmoud@yahoo.fr?subject=Feedback ZK Proof API/SDK">email</a> or anonymously provide any feedback here:
 
 <a hfref="https://goo.gl/forms/MYs8rK8MXQ2vpaOu2">https://goo.gl/forms/MYs8rK8MXQ2vpaOu2</a>
 
