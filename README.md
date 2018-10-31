@@ -1,9 +1,7 @@
-<center>
- <h1>Zero-Knowledge Proofs --- Complex? Now, super simple!</h1>
-</center>
-<a href="http://crypr.co">
+<a href="http://crypr.co"><br>
 <img src="https://storage.googleapis.com/wzukusers/user-34522423/images/5bd87960b9c49i6wWxeD%2FCapture.PNG" width="200" height="78">
-http://crypr.co</a>
+http://crypr.co</a><br>
+###Zero-Knowledge Proofs --- Complex? Now, super simple!
 
 ## Zero-Knowledge API MVP
 This is a mvp of our zero-knowledge api.
