@@ -37,8 +37,8 @@ We are currently seeking active feedback to build our API/SDK. If you want us to
 We are compliant with the standardisation effords of zero-knowledge proofs. See <a href="https://zkproof.org/">here</a> for more details.
 
 ## Contact us
-Robin Ankele <<a href="mailto:robin.ankele@gmail.com">robin.ankele@gmail.com</a>>
-Youssef Ben Mahmoud <<a href="mailto:youssef_ben_mahmoud@yahoo.fr">youssef_ben_mahmoud@yahoo.fr</a>>
+Robin Ankele <<a href="mailto:robin.ankele@gmail.com">robin.ankele@gmail.com</a>>  
+Youssef Ben Mahmoud <<a href="mailto:youssef_ben_mahmoud@yahoo.fr">youssef_ben_mahmoud@yahoo.fr</a>>  
 <a href="http://crypr.co">http://crypr.co</a>
 
 ## License
