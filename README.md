@@ -15,13 +15,13 @@ More information please visit <a href="https://en.wikipedia.org/wiki/Zero-knowle
 
 The MVP is written in python. To run the MVP you need to open two command lines:
 
-'''
+```
 python verifier.py
-'''
+```
 
-'''
+```
 python prover.py
-'''
+```
 
 ## API / SDK
 We are compliant with the standardisation effords of zero-knowledge proofs. See <a href="https://zkproof.org/">here</a> for more details.
