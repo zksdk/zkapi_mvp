@@ -1,3 +1,8 @@
+<center>
+#Zero-Knowledge Proofs --- Complex? Now, super simple!
+<a href="http://crypr.co">http://crypr.co</a>
+</center>
+
 ## Zero-Knowledge API MVP
 This is a mvp of our zero-knowledge api.
 
@@ -31,10 +36,11 @@ We are currently seeking active feedback to build our API/SDK. If you want us to
 ## API / SDK
 We are compliant with the standardisation effords of zero-knowledge proofs. See <a href="https://zkproof.org/">here</a> for more details.
 
-## License
-This is open-source software. CC-NC
-
 ## Contact us
 Robin Ankele <<a href="mailto:robin.ankele@gmail.com">robin.ankele@gmail.com</a>>
-
 Youssef Ben Mahmoud <<a href="mailto:youssef_ben_mahmoud@yahoo.fr">youssef_ben_mahmoud@yahoo.fr</a>>
+<a href="http://crypr.co">http://crypr.co</a>
+
+## License
+This is open-source software. 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
