@@ -1,6 +1,6 @@
 <center>
-#Zero-Knowledge Proofs --- Complex? Now, super simple!
-<a href="http://crypr.co">http://crypr.co</a>
+ <h1>Zero-Knowledge Proofs --- Complex? Now, super simple!</h1>
+ <a href="http://crypr.co">http://crypr.co</a>
 </center>
 
 ## Zero-Knowledge API MVP
