@@ -23,8 +23,17 @@ python verifier.py
 python prover.py
 ```
 
+# Feedback
+We are currently seeking active feedback to build our API/SDK. If you want us to add any specific features / support specific programming languages or have a business application you can either drop us an <a href="mailto:robin.ankele@gmail.com,youssef_ben_mahmoud@yahoo.fr">email</a> or anonymously provide any feedback here:
+
+<a hfref="https://goo.gl/forms/MYs8rK8MXQ2vpaOu2">https://goo.gl/forms/MYs8rK8MXQ2vpaOu2</a>
+
 ## API / SDK
 We are compliant with the standardisation effords of zero-knowledge proofs. See <a href="https://zkproof.org/">here</a> for more details.
 
 ## License
 This is open-source software. CC-NC
+
+## Contact us
+Robin Ankele <<a href="mailto:robin.ankele@gmail.com">robin.ankele@gmail.com</a>>
+Youssef Ben Mahmoud <<a href="mailto:youssef_ben_mahmoud@yahoo.fr">youssef_ben_mahmoud@yahoo.fr</a>>
