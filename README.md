@@ -2,6 +2,7 @@
  <h1>Zero-Knowledge Proofs --- Complex? Now, super simple!</h1>
  <a href="http://crypr.co">http://crypr.co</a>
 </center>
+
 ![alt text](https://storage.googleapis.com/wzukusers/user-34522423/images/5bd87960b9c49i6wWxeD%2FCapture.png "http://crypr.co")
 
 ## Zero-Knowledge API MVP
